@@ -15,15 +15,6 @@
 	<label for="phone">Telefone</label><br/>
 	<input type="text" name="phone" /><br/><br/>
 
-	<label for="stars">Estrelas</label><br/>
-	<select name="stars" id="stars">
-		<option value="1">1 Estrela</option>
-		<option value="2">2 Estrela</option>
-		<option value="3" selected="selected">3 Estrela</option>
-		<option value="4">4 Estrela</option>
-		<option value="5">5 Estrela</option>
-	</select><br/><br/>
-
 	<label for="internal_obs">Observações Internas</label><br/>
 	<textarea name="internal_obs" id="internal_obs"></textarea><br/><br/>
 
