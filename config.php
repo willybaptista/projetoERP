@@ -7,7 +7,7 @@ if(ENVIRONMENT == 'development') {
 	$config['dbname'] = 'mococaonline_contaazul';
 	$config['host'] = 'robb0149.publiccloud.com.br:3306';
 	$config['dbuser'] = 'mococ_azul';
-	$config['dbpass'] = 'CREEDcreed040405';
+	$config['dbpass'] = '';
 } else {
 	$config['dbname'] = 'contaazul';
 	$config['host'] = 'localhost';
