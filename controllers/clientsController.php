@@ -57,7 +57,7 @@ class clientsController extends controller {
                 $name = addslashes($_POST['name']);
                 $email = addslashes($_POST['email']);
                 $phone = addslashes($_POST['phone']);
-                $stars = addslashes($_POST['stars']);
+                //$stars = addslashes($_POST['stars']);
                 $internal_obs = addslashes($_POST['internal_obs']);
                 $address_zipcode = addslashes($_POST['address_zipcode']);
                 $address = addslashes($_POST['address']);
