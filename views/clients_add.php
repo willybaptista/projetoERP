@@ -14,7 +14,6 @@
 
 	<label for="phone">Telefone</label><br/>
 	<input type="text" name="phone" /><br/><br/>
-
         
 	<label for="internal_obs">Observações Internas</label><br/>
 	<textarea name="internal_obs" id="internal_obs"></textarea><br/><br/>
