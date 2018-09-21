@@ -54,7 +54,7 @@ class Providers extends model{
 		$sql->bindValue(":name", $name);
 		$sql->bindValue(":email", $email);
 		$sql->bindValue(":phone", $phone);
-		$sql->bindValue(":stars", $stars);
+		//$sql->bindValue(":stars", $stars);
 		$sql->bindValue(":internal_obs", $internal_obs);
 		$sql->bindValue(":address_zipcode", $address_zipcode);
 		$sql->bindValue(":address", $address);
